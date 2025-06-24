@@ -15,3 +15,6 @@ Gained awareness of common phishing tactics and developed practical email threat
 Successfully analyzed phishing email samples to identify spoofed senders, malicious URLs, suspicious attachments, and social engineering indicators using online tools and manual inspection.
 
 Let me know if you'd like a full markdown template for your GitHub project!
+
+
+This email attempts to trick the user into clicking a malicious login link by mimicking PayPal's brand and using scare tactics. If a user clicks and logs in, attackers can steal their credentials and access their real PayPal account.
